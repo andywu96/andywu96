@@ -5,6 +5,6 @@
 - 📫 How to reach me at wuchungm@usc.edu
 
 <!---
-andywu96/andywu96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+andywu96/andywu96 is a ✨ special ✨ repository because its `ABOUTME.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
