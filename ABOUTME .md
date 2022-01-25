@@ -3,8 +3,8 @@
 - 🌱 I’m currently a Master Student major in Analytics at University of Southern California
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
--               Email:wuchungm@usc.edu 
--               Linkedin: www.linkedin.com/in/chungmingwu
+- 📫    Email:wuchungm@usc.edu 
+-        Linkedin: www.linkedin.com/in/chungmingwu
 - 
 
 <!---
