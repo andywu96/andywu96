@@ -2,10 +2,7 @@
 - 👀 I’m interested in Data Analytics and Data Science opportunities in the United States
 - 🌱 I’m currently a Master Student major in Analytics at University of Southern California
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-- 📫    Email:wuchungm@usc.edu 
--        Linkedin: www.linkedin.com/in/chungmingwu
-- 
+- 📫 How to reach me:   Email: wuchungm@usc.edu ; Linkedin: www.linkedin.com/in/chungmingwu
 
 <!---
 andywu96/andywu96 is a ✨ special ✨ repository because its `ABOUTME.md` (this file) appears on your GitHub profile.
