@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 | Topic          | Description                                                                       |
 |----------------|-----------------------------------------------------------------------------------|
 | DS             | Linear Regression / Logistic Regression                                           |
-| DS             | K-Mean / Clustering / PCA / Biplot / SVM (Support Vector Machines)                |
+| DS             | K-Mean / Clustering / PCA / Biplot                                                |
 | hw3            | K-Nearest Neighbor(KNN) Algorithms                                                |
-| hw4            | Perceptron Learning /                                                             |
+| hw4            | SVM (Support Vector Machines)                                                     |
 | hw5            | Back Propagation algorithm for Feed Forward Neural Networks                       |
 | hw6            | HMM (Hidden Markov Models)                                                        |
-| hw7            | SVM (Support Vector Machines)                                                     |
+| hw7            | Perceptron Learning                                                               |
