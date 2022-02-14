@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 | Topic          | Description                                                                       |
 |----------------|-----------------------------------------------------------------------------------|
-| hw1            | Decision Trees                                                                    |
+| DS             | Linear Regression / Logistic Regression                                                               |
 | hw2            | K-Mean / EM for Clustering using GMM                                              |
 | hw3            | PCA / Fast Map Algorithm                                                          |
 | hw4            | Perceptron Learning / Pocket Algorithm /  Linear Regression / Logistic Regression |
