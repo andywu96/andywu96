@@ -23,8 +23,12 @@ You can click the Preview link to take a look at your changes.
 |----------------|-----------------------------------------------------------------------------------|
 | DS             | Linear Regression / Logistic Regression                                           |
 | DS             | K-Mean / Clustering / PCA / Biplot                                                |
-| hw3            | K-Nearest Neighbor(KNN) Algorithms                                                |
-| hw4            | SVM (Support Vector Machines)                                                     |
-| hw5            | Back Propagation algorithm for Feed Forward Neural Networks                       |
-| hw6            | HMM (Hidden Markov Models)                                                        |
-| hw7            | Perceptron Learning                                                               |
+| DS             | K-Nearest Neighbor(KNN) Algorithms                                                |
+| DS             | SVM (Support Vector Machines)                                                     |
+| DS             | Random Forest / Bagging / Boosting.                                               |
+| DS             | Ridge regressio / LASSO                                                           |
+| DS             | Perceptron Learning                                                               |
+| DS             | Classification and Regression Trees(CART)                                         |
+
+| DS             | Supervised vs. Unsupervised Learning                                              |
+| DS             | Hypothesis Testing / A/Btesting                                                   |
