@@ -29,6 +29,11 @@ You can click the Preview link to take a look at your changes.
 | DS             | Ridge regressio / LASSO                                                           |
 | DS             | Perceptron Learning                                                               |
 | DS             | Classification and Regression Trees(CART)                                         |
-
 | DS             | Supervised vs. Unsupervised Learning                                              |
 | DS             | Hypothesis Testing / A/Btesting                                                   |
+
+
+
+
+
+
