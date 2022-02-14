@@ -10,10 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# DS
-Projects source code of 2018 Spring INF552 course - a graduate level course on machine learning
+# Data Science and Machine Learning
 
-| Homework Index | Description                                                                       |
+| Topic          | Description                                                                       |
 |----------------|-----------------------------------------------------------------------------------|
 | hw1            | Decision Trees                                                                    |
 | hw2            | K-Mean / EM for Clustering using GMM                                              |
