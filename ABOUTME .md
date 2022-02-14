@@ -21,19 +21,20 @@ You can click the Preview link to take a look at your changes.
 
 | Topic          | Description                                                                       |
 |----------------|-----------------------------------------------------------------------------------|
-| DS             | Linear Regression / Logistic Regression                                           |
-| DS             | K-Mean / Clustering / PCA / Biplot                                                |
-| DS             | K-Nearest Neighbor(KNN) Algorithms                                                |
-| DS             | SVM (Support Vector Machines)                                                     |
-| DS             | Random Forest / Bagging / Boosting.                                               |
-| DS             | Ridge regressio / LASSO                                                           |
-| DS             | Perceptron Learning                                                               |
-| DS             | Classification and Regression Trees(CART)                                         |
 | DS             | Supervised vs. Unsupervised Learning                                              |
 | DS             | Hypothesis Testing / A/Btesting                                                   |
-
-
-
-
+| DS             | K-Nearest Neighbor(KNN) Algorithms                                                |
+| DS             | Linear Regression / Logistic Regression                                           |
+| DS             | Ridge regression / LASSO                                                          |
+| DS             | Classification and Regression Trees(CART)                                         |
+| DS             | Dimension Reduction Methods/ Shrinkage Methods                                    |
+| DS             | Random Forest / Bagging / Boosting                                                |
+| DS             | SVM (Support Vector Machines)                                                     |
+| DS             | K-Mean Clustering / Principal Component Analysis (PCA) / Biplot                   |
+| DS             | Semi-Supervised Learning                                                          |
+| DS             | Neural Networks and Deep Learning                                                 |
+| DS             | Perceptron Learning                                                               |
+| DS             | Hidden Markov Models                                                              |
+| DS             | Reinforcement Learning                                                            |
 
 
